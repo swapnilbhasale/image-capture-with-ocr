@@ -1,0 +1,1 @@
+# image-capture-with-ocr
